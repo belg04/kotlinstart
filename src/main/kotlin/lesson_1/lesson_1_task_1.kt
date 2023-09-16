@@ -2,5 +2,11 @@ package lesson_1
 
 fun main()
 {
-    println("Это решение 1задачи из урока1")
+    var number =432
+    var name: String = "привет"
+    println(name)
+
+
+
+    println("Это решение 1 задачи из урока 1")
 }
